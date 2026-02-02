@@ -1,5 +1,7 @@
 # radiacode-sensitivity-compensation
 This is simple python script for energy and sensitivity calibration of radiacode devices (can be used for any spectrometer).
+After this calibration peaks height should represent real intensity of that energy and shouldn't be dependent on spectrometer's sensitivity for different energies.
+Peaks in calibrated spectrum should be clearly visible in linear view and should represent their real emmision probability.
 
 usage:
 
